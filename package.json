@@ -1,0 +1,18 @@
+{
+  "name": "haneul-mvp",
+  "version": "1.0.0",
+  "description": "한국어 AI 전화 항공권 검색 서비스 MVP",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "fastify": "^5.2.0",
+    "@fastify/formbody": "^8.0.0",
+    "@fastify/websocket": "^11.0.0",
+    "ws": "^8.18.0",
+    "dotenv": "^16.4.0"
+  }
+}
