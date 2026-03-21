@@ -2,7 +2,15 @@
 
 미국 거주 한국 어르신들을 위한 **전화 기반 한국어 AI 항공권 검색 서비스**
 
-전화 한 통으로 한국어 음성 AI와 대화하면서 항공권 가격을 검색할 수 있습니다.
+## Why I Built This
+
+My parents live in the US and speak Korean. Every time they want to fly to Korea, they struggle to search for flights — English-only websites are hard to navigate, and they end up asking me to look it up every time.
+
+I wanted to build something where they could just **pick up the phone, speak Korean, and get flight prices** without needing a computer or asking for help.
+
+That's 하늘 (Haneul). You call a phone number, talk to an AI in Korean, and it searches Google Flights for you and reads back the cheapest options — including nearby dates, layover details, and how to book.
+
+부모님이 한국 갈 비행기 표를 알아보고 싶을 때마다 영어 사이트에서 검색을 못 하셔서 항상 저한테 부탁하셨어요. 전화 한 통이면 한국어로 AI와 대화하면서 비행기 가격을 바로 알 수 있으면 좋겠다고 생각해서 만들었습니다.
 
 ## How It Works
 
